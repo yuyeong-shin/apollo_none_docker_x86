@@ -1,0 +1,4 @@
+488c488
+<     if (m < (int)reverse_frame_chain.size()) {
+---
+>     if (m < (unsigned int)reverse_frame_chain.size()) {
